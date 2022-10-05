@@ -1,0 +1,8 @@
+{
+  "name": "DALI_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeoBueno15/DALI_web.git",
+  "author": "LeoBueno15 <leonardo.d.bueno.23@dartmouth.edu>",
+  "license": "MIT"
+}
